@@ -1,6 +1,6 @@
 # Orgs
 
-Aplicativo para criação de listas.
+Aplicativo nativo android para criação de listas.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -16,4 +16,4 @@ Aplicativo para criação de listas.
 
 ## Detalhes do projeto
 
-App de criação de lista feito em Kotlin no Android Studio
+App de criação de lista nativo android feito em Kotlin no Android Studio
